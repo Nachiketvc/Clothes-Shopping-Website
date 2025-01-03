@@ -26,7 +26,7 @@ Below is a breakdown of the core technologies used in this project:
 
 | Category     | Technology     |
 |--------------|----------------|
-| Web          | HTML, CSS, Bootstrap, |
+| Web          | HTML, CSS, Bootstrap, JavaScript |
 | Backend      | PHP |
 | Database     | phpMyAdmin       |
 
