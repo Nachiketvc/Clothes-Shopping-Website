@@ -42,7 +42,7 @@ Below is a breakdown of the core technologies used in this project:
 
 **User System**
 
-User login and registration system.
+- User login and registration system.
 Browse a wide variety of clothing categories.
 Add items to the cart for easy shopping.
 Secure purchase system.
