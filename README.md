@@ -1,5 +1,5 @@
 # Welcome to Trading Plarform Website!  
-This repository includes E-Commerce Website, built using the HTML, CSS, BootStrap, PHP stack.
+
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -14,7 +14,7 @@ This repository includes E-Commerce Website, built using the HTML, CSS, BootStra
 ## Overview
 **Description:** 
 
-
+This project demonstrates a complete e-commerce experience with essential user and admin functionalities.
 
 
 ---
