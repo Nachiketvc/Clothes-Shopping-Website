@@ -68,3 +68,20 @@ Below is a breakdown of the core technologies used in this project:
 ![snapshot(Clothes Shopping Website)_page-0002](https://github.com/user-attachments/assets/a3768827-7eaf-4679-94ce-1edbb63073d6)
 ![snapshot(Clothes Shopping Website)_page-0003](https://github.com/user-attachments/assets/50e82aaa-0e29-4e37-ae5f-b02d94ed3c51)
 ![snapshot(Clothes Shopping Website)_page-0004](https://github.com/user-attachments/assets/c766ca0f-2050-4538-a894-f0abd2b55986)
+
+
+
+## Screenshots
+
+### Snapshot 1
+![Snapshot 1](assets/snapshot_page-0001.png)
+
+### Snapshot 2
+![Snapshot 2](assets/snapshot_page-0002.png)
+
+### Snapshot 3
+![Snapshot 3](assets/snapshot_page-0003.png)
+
+### Snapshot 4
+![Snapshot 4](assets/snapshot_page-0004.png)
+
