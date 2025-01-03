@@ -34,26 +34,7 @@ Below is a breakdown of the core technologies used in this project:
 
 ---
 
-### 📦 Libraries & Packages Used
 
-
-
----
-
-
-| Package / Library    | Purpose |
-| -------------------- | ------- |
-| **Axios**            | HTTP client for API requests |
-| **Charts.js**        | Data visualization |
-| **Material UI**      | UI components |
-| **React Router Dom** | Client-side routing |
-| **Bootstrap 5.3**    | Responsive design |
-| **CORS**             | Cross-Origin Resource Sharing (CORS) |
-| **Bcrypt**           | Password hashing |
-| **Jwt**              | JSON Web Token (JWT) |
-| **Mongoose**         | MongoDB object modeling |
-| **Express.js**       | Backend framework |
-| **Body-Parser**      | Middleware for parsing request bodies |
 
 ---
 
