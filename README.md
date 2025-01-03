@@ -6,7 +6,7 @@
 2. [Technologies Packages & Libraries Used](#technologies)
 3. [Features](#features)
 4. [Screenshots](#demo--screenshots)
-5. [Acknowledgments](#acknowledgments)
+
 
 
 ---
@@ -61,13 +61,6 @@ Below is a breakdown of the core technologies used in this project:
 ---
 
 ## Screenshots
-
-<img src="HomePage.jpg" width="200" /> <img src="Pricing.jpg" width="200" /> <img src="SignUp.jpg" width="200" /> <img src="Footer.jpg" width="200" />
-
-<img src="TradingDashboard.jpg" width="200" /> <img src="Holdings.jpg" width="200" /> <img src="IntraDay.jpg" width="200" /> <img src="Orders.jpg" width="200" /> <img src="FeedBack.jpg" width="200" /> <img src="News.jpg" width="200" />
-
- 
----
 
 
 ![snapshot(Clothes Shopping Website)_page-0001](https://github.com/user-attachments/assets/b16538e4-a8f7-4d7c-82b6-cba0e05bed2a)
