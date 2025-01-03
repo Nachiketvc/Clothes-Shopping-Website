@@ -32,11 +32,6 @@ Below is a breakdown of the core technologies used in this project:
 | Database     | phpMyAdmin       |
 
 
-
----
-
-
-
 ---
 
 ## Features
@@ -71,17 +66,4 @@ Below is a breakdown of the core technologies used in this project:
 
 
 
-## Screenshots
-
-### Snapshot 1
-![Snapshot 1](assets/snapshot_page-0001.png)
-
-### Snapshot 2
-![Snapshot 2](assets/snapshot_page-0002.png)
-
-### Snapshot 3
-![Snapshot 3](assets/snapshot_page-0003.png)
-
-### Snapshot 4
-![Snapshot 4](assets/snapshot_page-0004.png)
 
