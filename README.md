@@ -43,20 +43,20 @@ Below is a breakdown of the core technologies used in this project:
 **User System**
 
 - User login and registration system.
-Browse a wide variety of clothing categories.
-Add items to the cart for easy shopping.
-Secure purchase system.
-Manage selections in the cart.
+- Browse a wide variety of clothing categories.
+- Add items to the cart for easy shopping.
+- Secure purchase system.
+- Manage selections in the cart.
 
 **Admin System**
 
-Admin login system.
-Add new categories to keep inventory updated.
-Delete outdated categories.
+- Admin login system.
+- Add new categories to keep inventory updated.
+- Delete outdated categories.
 
 **Database**
 
-MySQL database managed with PhpMyAdmin.
+- MySQL database managed with PhpMyAdmin.
 
 ---
 
